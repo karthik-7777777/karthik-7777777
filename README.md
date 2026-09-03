@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.svg" width="250" alt="Profile Picture" />
+  <img src="potrait.png" width="250" alt="Profile Picture" />
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=278A00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+K+Karthik+👋;AI+%26+ML+Student;Aspiring+Data+Analyst;Competitive+Programmer" alt="Typing SVG" />
