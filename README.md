@@ -50,6 +50,14 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthik-7777777/karthik-7777777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthik-7777777/karthik-7777777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karthik-7777777/karthik-7777777/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🕰️ Time Capsule
