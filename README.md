@@ -1,8 +1,7 @@
 <div align="center">
   <img src="Gemini_Generated_Image_hhpdyphhpdyphhpd.png" width="350" alt="Profile Picture">
 
-  <h2 style="color: #4CAF50; font-family: monospace; letter-spacing: 2px;">01001011 01000001 01010010 01010100 01001000 01001001 01001011</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E26D20&width=435&lines=Karthik+K" alt="Typing SVG" /></a>
   <p align="center">
     <a href="https://linkedin.com/in/karthik"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:kr2337758@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
