@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="mailto:kr2337758@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/karthik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/karthik-7777777/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/karthik-7777777"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/karthik"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.linkedin.com/in/karthik-k-076862239"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/karthik3335/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/kr2337758"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/users/karthik3335"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/kr2333o7a"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
@@ -58,11 +58,6 @@ I am a passionate B.Tech student in Artificial Intelligence & Machine Learning a
 - **Tech Stack:** Power Automate, Google Forms, MS Excel, FastAPI.
 - **Impact:** Showcased strong skills in workflow automation, data organization, and cross-platform integration.
 
-### 🛒 Smart Sales Analyzer
-- **Description:** Designed a conceptual project architecture to automate retail sales tracking and profit analysis.
-- **Tech Stack:** MS Excel, Power Automate.
-- **Impact:** Streamlined data entry processes and established automated monthly reporting pipelines.
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -102,6 +97,6 @@ I am a passionate B.Tech student in Artificial Intelligence & Machine Learning a
 ## 🌐 Connect With Me
 Feel free to reach out for collaborations, discussions on AI/ML, or just to say hi!
 <p align="left">
-  <a href="https://linkedin.com/in/karthik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/karthik-k-076862239"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kr2337758@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
