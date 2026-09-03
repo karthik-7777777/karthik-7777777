@@ -2,7 +2,7 @@
   <img src="potrait.png" width="350" alt="Profile Picture" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=278A00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+K+Karthik+👋;AI+%26+ML+Student;Aspiring+Data+Analyst;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=278A00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+K+Karthik+👋;AI+%26+ML+Student;Aspiring+AI&ML+Engineer;Aspiring+Data+Scientist;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,12 +19,11 @@
 
 ## 🧠 About Me
 
-I am a passionate B.Tech student in Artificial Intelligence & Machine Learning at Aditya College Of Engineering And Technology. I am highly self-driven with strong interests in Data Analytics, programming, and building automated data workflows. I am currently eager to apply my technical skills to real-world engineering challenges and explore the frontiers of MLOps and deep learning automation. 
+I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning at Aditya College of Engineering and Technology, with strong interests in **Data Science, Machine Learning, and AI Engineering**. I enjoy solving real-world problems through data, building ML solutions, and developing scalable applications with Python and FastAPI. Currently exploring **Deep Learning, MLOps, and AI automation**, while continuously improving my skills through hands-on projects.
 
-- **Career Goals:** Aspiring Data Analyst / ML Engineer looking for impactful roles building scalable data solutions.
-- **Interests:** Competitive Programming, Algorithm Design, Data Modeling, and Workflow Automation.
-- **Fun Fact:** I once mapped out a technical transition plan from a 144 Hz to a 60 Hz laptop panel after diagnosing a BIOS display flicker and a broken hinge trunk!
-
+- **Career Goals:** Aspiring Data Scientist / AI&ML Engineer looking for impactful roles building scalable data solutions.
+- **Interests:** Competitive Programming, Algorithm Design, Data Modeling, and Machine Learning.
+- **Fun Fact:** I started with programming and data analytics, and now I’m constantly experimenting with AI/ML to turn ideas into working projects.
 ---
 
 ## 🛠️ Technical Skills
