@@ -72,12 +72,7 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-7777777&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-7777777&theme=radical" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-7777777&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
