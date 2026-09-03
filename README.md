@@ -72,16 +72,7 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 
 ---
 
-## 🚀 Featured Projects
-
-### ⏱ Time Capsule
-- **Description:** Built an automated system to store and deliver personal messages/files at a scheduled future date.
-- **Tech Stack:** Power Automate, Google Forms, MS Excel, Share Point.
-- **Impact:** Showcased strong skills in workflow automation, data organization, and cross-platform integration.
-
----
-
-## <i class="certificate icon"></i> Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 - **Data Specialist Internship** – Technical Hub Private Limited
 - **SnowPro Associate Certification** – Snowflake
@@ -91,18 +82,12 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-7777777&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📚 Currently Learning
 - **FastAPI:** Building REST APIs, authentication, authorization, database integration, and scalable backend services.
 - **LLM Architecture:** Understanding LLMs, transformers, model architecture, and inference workflows.
 - **RAG (Retrieval-Augmented Generation):**Exploring embeddings, vector databases, retrieval pipelines, and context-aware AI applications.
+  
+---
 
 ## 🤝 Open to Collaborate On
 - Open-source AI/ML toolsets
