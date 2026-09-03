@@ -26,7 +26,7 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 - **Fun Fact:** I started with programming and data analytics, and now I’m constantly experimenting with AI/ML to turn ideas into working projects.
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -74,14 +74,14 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 
 ## 🚀 Featured Projects
 
-### 🕰️ Time Capsule
+### ⏱ Time Capsule
 - **Description:** Built an automated system to store and deliver personal messages/files at a scheduled future date.
 - **Tech Stack:** Power Automate, Google Forms, MS Excel, Share Point.
 - **Impact:** Showcased strong skills in workflow automation, data organization, and cross-platform integration.
 
 ---
 
-## 🏆 Achievements & Certifications
+## <i class="certificate icon"></i> Achievements & Certifications
 
 - **Data Specialist Internship** – Technical Hub Private Limited
 - **SnowPro Associate Certification** – Snowflake
@@ -100,13 +100,15 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 ---
 
 ## 📚 Currently Learning
-- **MLOps & Automated Machine Learning:** Exploring how automated model building shifts the data science landscape.
-- **Advanced Competitive Programming:** Focusing on Graph Theory, Minimum Spanning Trees, and Linked List algorithms.
+- **FastAPI:** Building REST APIs, authentication, authorization, database integration, and scalable backend services.
+- **LLM Architecture:** Understanding LLMs, transformers, model architecture, and inference workflows.
+- **RAG (Retrieval-Augmented Generation):**Exploring embeddings, vector databases, retrieval pipelines, and context-aware AI applications.
 
 ## 🤝 Open to Collaborate On
 - Open-source AI/ML toolsets
-- Junior mentorship initiatives / "Senior Knowledge Hubs"
-- Data pipeline optimizations and automation research
+- AI/ML and Data Science projects
+- FastAPI backend and AI-powered applications
+- Data analysis, automation, and ML pipelines
 
 ---
 
