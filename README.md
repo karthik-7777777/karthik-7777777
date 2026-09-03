@@ -49,7 +49,7 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+## Contribution Calender
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthik-7777777/karthik-7777777/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthik-7777777/karthik-7777777/output/github-contribution-grid-snake.svg">
@@ -62,7 +62,7 @@ I’m a passionate B.Tech student in Artificial Intelligence & Machine Learning 
 
 ### 🕰️ Time Capsule
 - **Description:** Built an automated system to store and deliver personal messages/files at a scheduled future date.
-- **Tech Stack:** Power Automate, Google Forms, MS Excel, FastAPI.
+- **Tech Stack:** Power Automate, Google Forms, MS Excel, Share Point.
 - **Impact:** Showcased strong skills in workflow automation, data organization, and cross-platform integration.
 
 ---
